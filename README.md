@@ -1,6 +1,6 @@
 # kakaotalk channel chat parser
 
-Parsing chat of kakatalk channel 
+카카오톡 채널에 있는 채팅 데이터를 파싱하는 도구입니다.
 
 ## Install
 
